@@ -52,3 +52,4 @@ The final grade is computed as follows and is rounded up to the nearest tenth.
 
     (Sum of all Test Grades x 60%) + (Sum of all Homework Grades x 40%)
 The lowest Homework Grade per quarter per student is removed from the computation.
+
