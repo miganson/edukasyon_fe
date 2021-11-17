@@ -2,6 +2,12 @@
 # Frontend code
 This readme will explain how the UI works
 
+## How to run using source code from git
+Node must be installed to run the frontend (atleast stable version)
+1. Clone repo from https://github.com/miganson/edukasyon_fe
+2. run npm install 
+3. run npm start
+
 ## Input Grades Text Area
 This text area will accept the input for the grades to be inputted in the database. 
 
